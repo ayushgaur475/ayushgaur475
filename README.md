@@ -18,15 +18,7 @@
 
 ---
 
-## 🌐 Portfolio
 
-<p align="center">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/🌍_Visit_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -102,7 +94,7 @@
 
 ---
 
-## 💬 Random Dev Quote
+
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -123,7 +115,7 @@
 
 ---
 
-## 💡 Developer Mindset
+
 
 *"I build products, not just projects."* 🚀
 
