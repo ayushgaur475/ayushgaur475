@@ -20,31 +20,18 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-### 💻 Languages
+<b>💻 Languages</b><br/> <img src="https://skillicons.dev/icons?i=js,python,java,cpp" /> <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp" />
+<b>🌐 Web Development</b><br/> <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" /> <br/><br/>
 
-<br/><br/>
+<b>🗄️ Database</b><br/> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> <br/><br/>
 
-### 🌐 Web Development
+<b>⚙️ Tools</b><br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</div>
 
-<br/><br/>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-<br/><br/>
-
-### ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</p>
 
 
 
