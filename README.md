@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Gaur</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+MediAssistAI;Crafting+Real+World+Products&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI%2FML+Enthusiast;Crafting+Real+World+Products&center=true&width=500&height=50">
 </p>
 
 <h3 align="center">💻 Developer | 🤖 AI/ML | 🚀 Product Builder</h3>
@@ -43,27 +43,7 @@
 ### 🏥 MediAssistAI 🚀
 
 * AI Symptom Checker + Doctor Finder
-* Practo-style UI + Map integration
 * Built with **HTML, CSS, JS, Node, MongoDB**
-
----
-
-### 🤖 Email Voice Bot
-
-* Voice → Text → Email system
-* Python automation
-
----
-
-### 🎬 Movie Recommender
-
-* ML-based recommendation system
-
----
-
-### 🌦️ Weather App
-
-* React + API integration
 
 ---
 
@@ -95,10 +75,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/(https://www.linkedin.com/in/ayush539/)">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:ayushgaur475@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
