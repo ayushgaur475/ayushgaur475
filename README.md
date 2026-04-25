@@ -18,35 +18,38 @@
 
 ---
 
-
-
 ## 🛠️ Tech Stack
+
+<p align="center">
 
 ### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp" />
+
+<br/><br/>
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+
+<br/><br/>
 
 ### 🗄️ Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br/><br/>
 
 ### ⚙️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
 </p>
 
----
+
+
+
+
 
 ## 📌 Featured Projects
 
