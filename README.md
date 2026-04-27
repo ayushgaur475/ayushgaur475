@@ -64,7 +64,7 @@
 
 ## 🏥 Featured Innovation
 
-### **[MediAssistAI](https://github.com/ayushgaur475)** `V2.0` 🚀
+### **[MediAssistAI](medi-assist-ai-khaki.vercel.app)** `V2.0` 🚀
 > **AI Symptom Checker + Instant Doctor Localization**
 *   **The Problem:** Delayed diagnosis and difficult access to healthcare.
 *   **The Solution:** An AI-driven engine that analyzes symptoms and maps out the nearest medical help in seconds.
