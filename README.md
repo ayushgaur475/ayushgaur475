@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ccff&height=250&section=header&text=Ayush%20Gaur&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast&descSize=25&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ccff&height=250&section=header&text=Ayush%20Gaur&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%20&descSize=25&descAlignY=55" width="100%" />
 </p>
 
 <!-- Typing Animation -->
