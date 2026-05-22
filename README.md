@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI%2FML+Enthusiast;Crafting+Real+World+Products;Startup+Mindset;Turning+Ideas+Into+Code&center=true&width=500&height=50&color=00ccff&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+STACK+DEVELOPER;Crafting+Real+World+Products;Startup+Mindset;Turning+Ideas+Into+Code&center=true&width=500&height=50&color=00ccff&size=25">
 </p>
 
 <p align="center">
